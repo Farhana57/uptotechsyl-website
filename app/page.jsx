@@ -287,7 +287,7 @@ export default function Home() {
                     <div className="absolute inset-0 bg-primary/20 opacity-0 group-hover:opacity-100 transition-opacity duration-500 pointer-events-none"></div>
                 </div>
                 <h3 className="font-bold text-2xl mb-2 text-white transition-colors">Farhana Khatun</h3>
-                <p className="text-primary font-bold tracking-wide uppercase text-sm transition-colors">Exicutive Officer(HR)& Full Stack Dev</p>
+                <p className="text-primary font-bold tracking-wide uppercase text-sm transition-colors">Exicutive Officer(HR)& Mern Dev</p>
             </div>
 
             {/* 3rd Card: Shoumo S. Araf */}

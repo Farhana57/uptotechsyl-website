@@ -5,7 +5,7 @@ export default function AboutPage() {
     const teamMembers = [
         {
             name: "Farhana Khatun",
-            role: "COO & MERN Dev",
+            role: "HR & MERN Dev",
             imgSrc: "/my img.jpeg",
             socials: [
                 { icon: "bxl-linkedin-square", href: "#" },
