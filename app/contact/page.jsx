@@ -87,7 +87,7 @@ export default function ContactSection() {
                             <h3 className="text-xl font-bold text-white mb-3">Call Us</h3>
                             <p className="text-gray-400 leading-7 text-sm">
                                 +880 1759945057<br />
-                                +880 1852 471826
+                                +880 1819088605
                             </p>
                         </div>
 
